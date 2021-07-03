@@ -14,7 +14,7 @@
       "gulp-phpcs": "^3.1.0",
       "gulp-phpunit": "^0.26.0",
       "gulp-util": "^3.0.8",
-      "jquery": "^3.4.1",
+      "jquery": "^3.5.0",
       "jshint": "^2.10.2",
       "jshint-stylish": "^2.2.1",
     "less-plugin-clean-css": "^1.5.1",
